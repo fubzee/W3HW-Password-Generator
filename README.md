@@ -1,6 +1,7 @@
 **JavaScript: Password Generator**
 
 https://fubzee.github.io/W3HW-Password-Generator/
+
 https://github.com/fubzee/W3HW-Password-Generator
 
 Functionality
