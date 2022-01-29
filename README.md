@@ -1,5 +1,7 @@
 **JavaScript: Password Generator**
 
+https://github.com/fubzee/W3HW-Password-Generator
+
 Functionality
 
 This application prompts a user for pre-selected criteria to determine a randomly generated password made up of a combination of lower case alphabet characters, upper case alphabet characters, numbers and/or special characters.  The password has a minimum length of 8 random characters up to a total of 128 random characters.
